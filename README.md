@@ -5,12 +5,17 @@ Whether you are a student, aspiring software developer, or programming enthusias
 📖 About This Repository
 C is one of the most powerful and widely used programming languages. It serves as the foundation for many modern programming languages and is extensively used in system programming, embedded systems, operating systems, and software development.
 
-This repository contains:
-📚 Topic-wise tutorials
-💻 Well-commented source codes
-📝 Practice programs
-🎯 Problem-solving examples
-🚀 Beginner-friendly explanations
+📦 What This Repository Contains
+
+📄 Topic-wise C programs written in a clean and well-structured format
+💻 All code files are available with .c extension for easy compilation and execution
+📊 PPT (PowerPoint Presentation) included for covered topics to support quick revision and understanding
+📑 Detailed documentation files provided in document format for better explanation of concepts
+📝 Practice programs and examples for hands-on learning and problem-solving
+📚 Topic-wise tutorials with step-by-step explanations
+🎯 Problem-solving examples for better understanding
+🚀 Beginner-friendly explanations for easy learning
+
 ✨ Features
 
 ✔️ Beginner-Friendly Content
