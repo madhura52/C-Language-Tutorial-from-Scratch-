@@ -111,58 +111,38 @@ String Programs
 Array Programs
 Function Programs
 File Handling Programs
+
 🛠️ Requirements
-
 To run these programs, you need:
-
 GCC Compiler
 Code::Blocks / Dev-C++ / VS Code
 Any C Compiler
 Compile and Run
 gcc program.c -o output
 ./output
-📁 Repository Structure
-C-Language-Tutorial/
-│
-├── Basics/
-├── Variables_and_Data_Types/
-├── Operators/
-├── Conditional_Statements/
-├── Loops/
-├── Functions/
-├── Arrays/
-├── Strings/
-├── Pointers/
-├── Structures/
-├── File_Handling/
-├── Dynamic_Memory_Allocation/
-├── Practice_Programs/
-└── README.md
 
+📁 Repository Structure
+This repository is organized in a structured way to help learners easily navigate through different C programming topics. Each folder contains topic-wise programs and examples:
+
+C-Language-Tutorial/
+📂 Basics
+📂 Variables and Data Types
+📂 Operators
+📂 Conditional Statements
+📂 Loops
+📂 Functions
+📂 Arrays
+📂 Strings
+📂 Pointers
+📂 Structures
+📂 File Handling
+📂 Dynamic Memory Allocation
+📂 Practice Programs
+📄 README.md
 🎯 Learning Roadmap
-C Basics
-    ↓
-Variables & Data Types
-    ↓
-Operators
-    ↓
-Conditional Statements
-    ↓
-Loops
-    ↓
-Functions
-    ↓
-Arrays & Strings
-    ↓
-Pointers
-    ↓
-Structures & Unions
-    ↓
-File Handling
-    ↓
-Dynamic Memory Allocation
-    ↓
-Advanced Concepts
+
+This roadmap shows the step-by-step learning flow followed in this repository, starting from basics and gradually moving to advanced concepts:
+C Basics → Variables & Data Types → Operators → Conditional Statements → Loops → Functions → Arrays & Strings → Pointers → Structures & Unions → File Handling → Dynamic Memory Allocation → Advanced Concepts
 
 🌟 Why Learn C?
 Foundation of Programming
@@ -171,11 +151,10 @@ Helps Understand Memory Management
 Widely Used in Embedded Systems
 Essential for Learning Data Structures and Algorithms
 Useful for Competitive Programming
-🤝 Contributions
 
+🤝 Contributions
 Contributions are welcome!
 If you would like to improve this repository:
-
 Fork the repository
 Create a new branch
 Make your changes
