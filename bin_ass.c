@@ -13,16 +13,16 @@ int main()
 }
 
 // //Bitwise OR
-// #include<stdio.h>
-// int main() 
-// {
-//     int a,b;
-//     printf("Enter two numbers: ");
-//     scanf("%d %d", &a, &b);
-//     int result=a|b;
-//     printf("Result (a | b) = %d\n", result);
-//     return 0;
-// }
+#include<stdio.h>
+int main() 
+{
+    int a,b;
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
+    int result=a|b;
+    printf("Result (a | b) = %d\n", result);
+    return 0;
+}
 
 // //Bitwise XOR
 #include <stdio.h>
@@ -49,16 +49,16 @@ int main()
 }
 
 // //Right shift
-// #include<stdio.h>
-// int main() 
-// {
-//     int num;
-//     printf("Enter a number: ");
-//     scanf("%d",&num);
-//     int result=num>>1;
-//     printf("Result (num>>1)=%d\n",result);
-//     return 0;
-// }
+#include<stdio.h>
+int main() 
+{
+    int num;
+    printf("Enter a number: ");
+    scanf("%d",&num);
+    int result=num>>1;
+    printf("Result (num>>1)=%d\n",result);
+    return 0;
+}
 
 
 //Toggle on/off
